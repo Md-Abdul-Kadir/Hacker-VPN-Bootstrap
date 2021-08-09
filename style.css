@@ -1,0 +1,12 @@
+.bg-green{
+   color: #30ab73;
+   font-size: 22px;
+}
+.extra-margin{
+    margin-top: 5% !important;
+    margin-bottom: 5% !important;
+}
+.extra-large-margin{
+    margin-top: 10% !important;
+    margin-bottom: 10% !important;
+}
